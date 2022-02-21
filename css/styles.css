@@ -409,8 +409,8 @@ header .btn-outline-lg:hover {
 /*     Services     */
 /********************/
 .services {
-	padding-top: 9rem;
-	padding-bottom: 6rem;
+	padding-top: 5rem;
+	padding-bottom: 4rem;
 	text-align: center;
 }
 
@@ -443,8 +443,8 @@ header .btn-outline-lg:hover {
 /*     Benefits     */
 /********************/
 .benefits {
-	padding-top: 9rem;
-	padding-bottom: 9rem;
+	padding-top: 5rem;
+	padding-bottom: 4rem;
 }
 
 .benefits .image-container {
@@ -471,8 +471,8 @@ header .btn-outline-lg:hover {
 /*     Invite     */
 /******************/
 .invite {
-	padding-top: 9rem;
-	padding-bottom: 9rem;
+	padding-top: 5rem;
+	padding-bottom: 4rem;
 	background-color: #3f465c;
 	text-align: center;
 }
@@ -511,8 +511,8 @@ header .btn-outline-lg:hover {
 /*     Features     */
 /********************/
 .features {
-	padding-top: 9rem;
-	padding-bottom: 9rem;
+	padding-top: 5rem;
+	padding-bottom: 4rem;
 }
 
 .features .text-container {
@@ -532,8 +532,8 @@ header .btn-outline-lg:hover {
 /*     Customers     */
 /*********************/
 .customers {
-	padding-top: 9rem;
-	padding-bottom: 6.5rem;
+	padding-top: 5rem;
+	padding-bottom: 4rem;
 	text-align: center;
 }
 
@@ -556,8 +556,8 @@ header .btn-outline-lg:hover {
 /*     Contact     */
 /*******************/
 .contact {
-	padding-top: 9rem;
-	padding-bottom: 9rem;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
 	text-align: center;
 }
 
