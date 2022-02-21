@@ -370,7 +370,7 @@ a:hover {
 header {
 	padding-top: 13rem;
 	padding-bottom: 9rem;
-	background: linear-gradient(to bottom right, rgba(28, 54, 51, 0.8), rgba(28, 54, 51, 0.8)), url('../images/hero.jpg') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(28, 54, 51, 0.8), rgba(28, 54, 51, 0.8)), url('../images/hero.webp') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
